@@ -1,0 +1,5 @@
+*.onnx filter=lfs diff=lfs merge=lfs -text
+*.zstd filter=lfs diff=lfs merge=lfs -text
+*.zst filter=lfs diff=lfs merge=lfs -text
+*.tzt filter=lfs diff=lfs merge=lfs -text
+*.pdparams filter=lfs diff=lfs merge=lfs -text
